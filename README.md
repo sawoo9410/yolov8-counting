@@ -1,5 +1,3 @@
 # yolov8-counting
 
-<video width="600" controls>
-  <source src="./results/conveyor_belt/yolov8n/video_counting/output_counting_example_conveyor_20s.mp4" type="video/mp4">
-</video>
+[![Watch the video](https://img.youtube.com/vi/YzCje8Fl-xg/0.jpg)](https://www.youtube.com/watch?v=YzCje8Fl-xg)
