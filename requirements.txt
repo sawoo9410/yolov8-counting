@@ -1,0 +1,8 @@
+shapely==2.0.6
+ultralytics==8.2.2
+scikit-learn==1.4.2
+scipy==1.10.1
+pafy==0.5.5
+youtube_dl==2021.12.17
+numpy==1.26.4
+boxmot==11.0.1
